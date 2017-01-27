@@ -1,6 +1,4 @@
-=================
-     READ_ME 
-=================
+Computer Vision based carbohydrate estimator which detects carbs from an image of food.
 
 To execute the project:
 
