@@ -2,6 +2,6 @@
      READ_ME 
 =================
 
-To run the project:
+To execute the project:
 
-1. Run the car_estimation_main.m in the unzipped folder file with all the files present in the directory.
+1. Run the carb_estimation_main.m in the unzipped folder file with all the files present in the directory.
