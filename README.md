@@ -1,5 +1,8 @@
-Computer Vision based carbohydrate estimator which detects carbs from an image of food.
+# Computer Vision based carbohydrate estimator.
 
+## What is this?
+
+Computer Vision based carbohydrate estimator which detects carbs from an image of food.
 
  This estimator performs the following operations
  1. Converts image to binary with a threshold and Canny edge detection is
@@ -15,9 +18,9 @@ Computer Vision based carbohydrate estimator which detects carbs from an image o
  6. Features of the food items from the clusters are extracted and individual area is
     calulated.
  7. The CHO content of the detcted items are displayed.
- ===================================================
 
-
-To execute the project:
-
+## Getting Started
 1. Run the carb_estimation_main.m in the unzipped folder file with all the files present in the directory.
+
+## Contact
+Open an issue here.
