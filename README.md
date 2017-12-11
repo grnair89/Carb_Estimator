@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Computer Vision based carbohydrate estimator which detects carbs from an image of food.
+Computer Vision based carbohydrate estimator which detects CHO from an image of food.
 
  This estimator performs the following operations
  1. Converts image to binary with a threshold and Canny edge detection is
