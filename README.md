@@ -15,8 +15,7 @@ Computer Vision based carbohydrate estimator which detects carbs from an image o
  6. Features of the food items from the clusters are extracted and individual area is
     calulated.
  7. The CHO content of the detcted items are displayed.
- ========================================================================
- Author: Ganesh Rajasekharan
+ ===================================================
 
 
 To execute the project:
