@@ -1,4 +1,4 @@
-# Computer Vision based carbohydrate estimator.
+# Computer Vision based Carbohydrates Estimator.
 
 ## What is this?
 
